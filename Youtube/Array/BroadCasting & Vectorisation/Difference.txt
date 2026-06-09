@@ -1,0 +1,8 @@
+| Feature   | Vectorisation                  | Broadcasting                           |
+| ----------| -------------------------------| ---------------------------------------|
+| Meaning   | Operate on arrays without loops| Adjust shapes of arrays automatically  |
+| Purpose   | Faster computation             | Make different-shaped arrays compatible|
+| Focus     | How operation is performed     | How shapes are handled                 |
+| Example   | `a * 2`                        | `(2,3) + (3,)`                         |
+| Need loops| No                             | No                                     |
+| Role      | Computation method             | Shape alignment rule                   |

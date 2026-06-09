@@ -1,0 +1,9 @@
+Why we use it?
+In NumPy, broadcasting is used so arrays of different shapes can work together automatically without writing loops.
+
+     .Less code
+        You don't need loops.
+     .Faster
+        NumPy uses optimized internal operations.
+     .Easier math with arrays
+        You can combine arrays of compatible shapes.

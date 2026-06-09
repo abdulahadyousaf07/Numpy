@@ -1,0 +1,7 @@
+It is used to handle the missing 
+It has built-in functions:
+    . np.isnan()  - detects missing values
+    . np.nan_to_num()  - replace missing value to other number
+    . np.isinf()  - check whether elements are infinity
+
+    

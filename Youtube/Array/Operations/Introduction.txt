@@ -1,0 +1,8 @@
+Operators    |     Example
+    +        |    array + 2
+    -        |    array - 2
+    *        |    array * 2
+    /        |    array / 2
+    %        |    array % 2
+    **       |    array ** 2   (exponential operator means (2**3 = 2*2*2))
+    //       |    array // 2   (floor division operator means (7//2 = 3) , It removes the decimal part)

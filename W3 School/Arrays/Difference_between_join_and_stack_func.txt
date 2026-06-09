@@ -1,0 +1,21 @@
+Big Difference:
+
+Function	   |   Creates New Axis?
+               |
+stack()	       |       Yes
+concatenate()  |       No
+
+----------------------------------------
+
+FINAL TABLE:
+Function      |	 Purpose	        | Works Along	 |  New Axis? | Equal Size Needed?
+vstack()      |  Stack vertically	| Rows	         |    No	  |   Same columns
+hstack()      |	 Stack horizontally	| Columns	     |    No	  |   Same rows
+dstack()      |	 Stack depth-wise	| Depth axis	 |    Yes-ish |   Compatible shapes
+stack()       |	 General stacking	| Any axis	     |    Yes	  |   Same shape
+concatenate() |	 Join arrays	    | Existing axis	 |    No      |   Compatible shapes
+vsplit()	  |  Split vertically	| Rows	         |    No      |   Equal split
+hsplit()	  |  Split horizontally	| Columns	     |    No      |   Equal split
+array_split() |	 Flexible split	    | Any axis	     |    No      |   Unequal allowed
+dsplit()	  |  Split depth-wise	| Depth axis	 |    No      |   Equal split
+split()	      |  General split	    | Any axis	     |    No      |   Equal split

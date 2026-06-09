@@ -1,0 +1,23 @@
+It is fast as compare to the list of python and on large scale of data it gives efficient results
+
+List -> stores multiple data types of data like each element might have different data type
+Array -> stores only same data type of elements
+
+Creation of Num-py :
+    . Travis Oliphant made It
+    . In 2005 it is created
+    . It stands for Numerical Python(It help to manage large amount of data in arrays not list)
+
+Comparison of Num-py Array wih List of Python :
+    . It uses less RAM 
+    . It is 50-100 times faster than list of python
+    . It has easy math operations
+    . It is necessary in every AI fields
+    . It is used to manage large data efficiently
+    . It is foundation of AI , ML , DS , DA
+
+It is zero based indexing means it takes 1st element as a 0 index
+
+Installation Of Num-Py:
+    . pip install numpy
+    . import numpy as np

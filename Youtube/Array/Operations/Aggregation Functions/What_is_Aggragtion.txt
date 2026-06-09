@@ -1,0 +1,13 @@
+Aggregation means to pull out summary from data
+It has many functions like 
+
+| Function          | What It Does                 |
+|-------------------|------------------------------|
+| np.sum()          | Adds all elements            |
+| np.mean()         | Calculates average (mean)    |
+| np.median()       | Finds middle value           |
+| np.std()          | Calculates standard deviation|
+| np.var()          | Calculates variance          |
+| np.min()          | Finds smallest value         |
+| np.max()          | Finds largest value          |
+

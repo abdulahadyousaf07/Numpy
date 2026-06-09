@@ -1,0 +1,5 @@
+Vectorisation means performing operations on entire arrays at once without using loops.
+Advantages:
+    .Faster
+    .Less code
+    .Optimized memory usage
