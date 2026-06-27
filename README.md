@@ -38,28 +38,15 @@ Some of the topics included are:
 * Reshaping 
 * Types of Arrays (1D , 2D , 3D)
 
-More topics will be added as I continue learning.
 
 ## 📂 Repository Structure
 
 ```text
 NumPy/
-│── Code/                  # Python practice files
-│── Notes/                 # Text notes and explanations
-│── README.md              # Repository overview
-```
+│── W3 School/               # The content or code that I learn from W3 School
+│── Youtube/                 # The content or code that I learn from Youtube
+│── README.md                # Repository overview
 
-> *(The structure may change as I continue learning.)*
-
-## 🎯 Goal
-
-My goal is to build a strong foundation in NumPy before moving on to:
-
-* Pandas
-* Matplotlib
-* Data Analysis
-* Machine Learning
-* AI Engineering
 
 ## 💡 Why This Repository?
 
